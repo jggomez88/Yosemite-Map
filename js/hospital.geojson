@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 902, "POINAME": "Medical Clinic", "POIALTNAME": "NPS Visitor Facilities", "POILABEL": "Medical Clinic", "POIFEATTYP": null, "POITYPE": "Hospital", "UNITCODE": "YOSE", "UNITNAME": null, "GROUPCODE": null, "REGIONCODE": "PWR", "ISEXTANT": "Yes", "MAPMETHOD": null, "MAPSOURCE": null, "SRCESCALE": null, "SOURCEDATE": null, "XYERROR": null, "LOCATIONID": null, "ASSETID": null, "NOTES": null, "DISTRIBUTE": "Public", "RESTRICTIO": "Unrestricted", "CREATEDATE": null, "CREATEUSER": null, "EDITDATE": null, "EDITUSER": "VGLYNNLINARIS", "FEATUREID": "{fcda9f36-d4a1-42cd-9766-52494c678138}", "GEOMETRYID": "{6bd30a04-1424-4f54-8a3e-e692404b7b5b}", "PLACESID": null, "GlobalID": "{DB75B0E9-97D4-4B67-9FAE-2328C3474504}", "TAGS": null }, "geometry": { "type": "Point", "coordinates": [ -119.582787532005625, 37.748586669980796 ] } }
+]
+}
